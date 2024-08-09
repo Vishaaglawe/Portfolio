@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Lonely
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-lonely/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Welcome to my personal portfolio repository.
+Here you'll find an overview of my skills and knowledge.
